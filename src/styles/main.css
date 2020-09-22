@@ -1,0 +1,16 @@
+/* .unlocked{
+  display: none;
+}
+
+.locked :hover{
+  display: none;
+  color: red;
+}
+
+.unlocked :hover::before{
+  display: inline-block;
+} */
+
+.par{
+  font-family: ParisParisienneien;
+}
