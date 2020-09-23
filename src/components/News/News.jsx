@@ -41,12 +41,38 @@ export default function News() {
           </p>
         </div>
       </div>
-      <div>
-        <div>
+      <div className="flex h-full">
+        <div className="w-1/2">
           <img
             src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/news/2020/09_16_ravensburger_evo/hura_evo_raven_cover.jpg"
-            alt=""
-            className='w-1/2'
+            alt="Huracan"
+          />
+        </div>
+        <div className="flex flex-col items-start max-h-full px-12 ">
+          <div>
+            <h2 className="uppercase text-lg font-normal">16 september 2020</h2>
+          </div>
+          <div className="flex flex-col h-full items-start justify-center py-8">
+            <h3 className="px-3  bg-gray-200 hover:bg-black hover:text-white uppercase text-base">
+              Huracán
+            </h3>
+            <h1 className="py-3 text-3xl font-bold  w-full text-justify uppercase">
+              Buid your own lamborghini <br />
+              huracán evo as a 3d puzzle
+            </h1>
+          </div>
+          <div className="flex flex-col  h-full items-start justify-end w-1/2">
+            <button className="border border-gray-400 border-solid px-16 py-4 uppercase font-normal hover:bg-black hover:text-white">
+              Read More
+            </button>
+          </div>
+        </div>
+      </div>
+      <div className='flex w-full py-16'>
+        <div className='w-1/2'>
+          <img
+            src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/news/2020/motorsport/15_06_essenza/cover.jpg"
+            alt="motorsport"
           />
         </div>
       </div>
