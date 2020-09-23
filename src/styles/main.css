@@ -14,3 +14,23 @@
 .par{
   font-family: ParisParisienneien;
 }
+
+/* Animação da borda do Header */
+.animate-border::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 1px;
+  background: white;
+  transition: width 0.3s;
+}
+
+.animate-border:hover::after {
+  width: 98%;
+  transition: width 0.3s;
+}
+
+/* Tamanho da fonte igual o News do site da Lamborghini */
+.text-7xl {
+  font-size: 6rem;
+}

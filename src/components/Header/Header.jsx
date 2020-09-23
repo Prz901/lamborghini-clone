@@ -10,21 +10,21 @@ export default function Header() {
           className="px-6"
         />
         <div className="px-4 flex items-center">
-          <p className="text-gray-200 pr-4 pl-2 text-lg uppercase">models</p>
-          <p className="text-gray-200 pr-4 pl-2 text-lg uppercase">ownership</p>
-          <p className="text-gray-200 pr-4 pl-2 text-lg uppercase">
+          <p className="text-gray-200 pr-4 pl-2 text-lg uppercase animate-border">models</p>
+          <p className="text-gray-200 pr-4 pl-2 text-lg uppercase animate-border">ownership</p>
+          <p className="text-gray-200 pr-4 pl-2 text-lg uppercase animate-border">
             motorsport
           </p>
-          <p className="text-gray-200 pr-4 pl-2 text-lg uppercase">esports</p>
+          <p className="text-gray-200 pr-4 pl-2 text-lg uppercase animate-border">esports</p>
         </div>
       </div>
       <div>
         <div className="flex items-center">
-          <p className="text-gray-200 pr-6 pl-2 text-lg uppercase">
+          <p className="text-gray-200 pr-6 pl-2 text-lg uppercase animate-border">
             dealerships
           </p>
-          <p className="text-gray-200 pr-6 pl-2 text-lg uppercase">museum</p>
-          <p className="text-gray-200 pr-6 pl-2 text-lg uppercase">store</p>
+          <p className="text-gray-200 pr-6 pl-2 text-lg uppercase animate-border">museum</p>
+          <p className="text-gray-200 pr-6 pl-2 text-lg uppercase animate-border">store</p>
           <div className='px-6'>
             <i className="text-xl pr-8 text-gray-200 fas fa-cog" />
             <i className="text-xl pr-8 text-gray-200 fas fa-comment-alt" />
