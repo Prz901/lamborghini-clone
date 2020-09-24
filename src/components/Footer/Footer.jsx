@@ -7,12 +7,12 @@ export default function Footer() {
         <div className='flex items-center w-full justify-between'>
           <div className='flex items-center'>
             <p className='text-white text-lg px-2 uppercase'>Company</p>
-            <p className='text-white text-lg px-2 uppercase'>Carrers</p>
-            <p className='text-white text-lg px-2 uppercase'>Contatc Us</p>
-            <p className='text-white text-lg px-2 uppercase'>Media Center</p>
-            <p className='text-white text-lg px-2 uppercase'>Privacy & Legal</p>
-            <p className='text-white text-lg px-2 uppercase'>Sitemap</p>
-            <p className='text-white text-lg px-2 uppercase'>newletter</p>
+            <p className='text-white text-lg px-4 uppercase'>Carrers</p>
+            <p className='text-white text-lg px-4 uppercase'>Contatc Us</p>
+            <p className='text-white text-lg px-4 uppercase'>Media Center</p>
+            <p className='text-white text-lg px-4 uppercase'>Privacy & Legal</p>
+            <p className='text-white text-lg px-4 uppercase'>Sitemap</p>
+            <p className='text-white text-lg px-4 uppercase'>newletter</p>
           </div>
           <div>
             <p>icones</p>
