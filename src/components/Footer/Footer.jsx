@@ -6,25 +6,25 @@ export default function Footer() {
       <div className="md:px-20 md:py-20 px-40 py-20">
         <div className="flex items-center w-full justify-between">
           <div className="flex items-center">
-            <p className="text-white text-lg pr-2 uppercase animate-border">
+            <p className="text-white text-lg pr-2 uppercase  cursor-pointeranimate-border ">
               Company
             </p>
-            <p className="text-white text-lg px-4 uppercase animate-border">
+            <p className="text-white text-lg px-4 uppercase animate-border cursor-pointer">
               Carrers
             </p>
-            <p className="text-white text-lg px-4 uppercase animate-border">
+            <p className="text-white text-lg px-4 uppercase animate-border cursor-pointer">
               Contatc Us
             </p>
-            <p className="text-white text-lg px-4 uppercase animate-border">
+            <p className="text-white text-lg px-4 uppercase animate-border cursor-pointer">
               Media Center
             </p>
-            <p className="text-white text-lg px-4 uppercase animate-border">
+            <p className="text-white text-lg px-4 uppercase animate-border cursor-pointer">
               Privacy & Legal
             </p>
-            <p className="text-white text-lg px-4 uppercase animate-border">
+            <p className="text-white text-lg px-4 uppercase animate-border cursor-pointer">
               Sitemap
             </p>
-            <p className="text-white text-lg px-4 uppercase animate-border">
+            <p className="text-white text-lg px-4 uppercase animate-border cursor-pointer">
               newletter
             </p>
           </div>
@@ -45,9 +45,9 @@ export default function Footer() {
               company part of Audi Group.
             </p>
           </div>
-          <div className='mt-2'>
+          {/* <div className='mt-2'>
             <p className='text-white text-base font-normal'>All rights reserved. VAT no. IT 00591801204</p>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

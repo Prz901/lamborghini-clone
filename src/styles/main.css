@@ -34,6 +34,12 @@
 .text-7xl {
   font-size: 6rem;
 }
+.text-8xl {
+  font-size: 7rem;
+}
+.text-9xl {
+  font-size: 9rem;
+}
 
 .background-lamborghini {
   background: #202020;

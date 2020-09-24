@@ -11,29 +11,29 @@ export default function Header() {
             className="px-6"
           />
           <div className="px-4 flex items-center">
-            <p className="text-gray-200 pr-4 pl-2 text-lg uppercase animate-border">
+            <p className="text-gray-200 pr-4 pl-2 text-lg uppercase cursor-pointer animate-border">
               models
             </p>
-            <p className="text-gray-200 pr-4 pl-2 text-lg uppercase animate-border">
+            <p className="text-gray-200 pr-4 pl-2 text-lg uppercase animate-border cursor-pointer">
               ownership
             </p>
-            <p className="text-gray-200 pr-4 pl-2 text-lg uppercase animate-border">
+            <p className="text-gray-200 pr-4 pl-2 text-lg uppercase animate-border cursor-pointer">
               motorsport
             </p>
-            <p className="text-gray-200 pr-4 pl-2 text-lg uppercase animate-border">
+            <p className="text-gray-200 pr-4 pl-2 text-lg uppercase animate-border cursor-pointer">
               esports
             </p>
           </div>
         </div>
         <div>
           <div className="flex items-center">
-            <p className="text-gray-200 pr-6 pl-2 text-lg uppercase animate-border">
+            <p className="text-gray-200 pr-6 pl-2 text-lg uppercase animate-border cursor-pointer">
               dealerships
             </p>
-            <p className="text-gray-200 pr-6 pl-2 text-lg uppercase animate-border">
+            <p className="text-gray-200 pr-6 pl-2 text-lg uppercase animate-border cursor-pointer">
               museum
             </p>
-            <p className="text-gray-200 pr-6 pl-2 text-lg uppercase animate-border">
+            <p className="text-gray-200 pr-6 pl-2 text-lg uppercase animate-border cursor-pointer">
               store
             </p>
             <div className="px-6">

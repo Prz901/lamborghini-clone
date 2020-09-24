@@ -6,7 +6,7 @@ export default function News() {
       <div className='w-full'>
         <h2 className='text-4xl font-medium py-2 uppercase'>News</h2>
         <div className='pb-12'>
-          <h1 className='text-7xl font-bold  uppercase leading-none'>Lamborghini world</h1>
+          <h1 className='text-8xl font-bold  uppercase leading-none'>Lamborghini  world</h1>
         </div>
 
         <img
