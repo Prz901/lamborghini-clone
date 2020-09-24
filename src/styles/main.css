@@ -11,7 +11,7 @@
   display: inline-block;
 } */
 
-.par{
+.par {
   font-family: ParisParisienneien;
 }
 
@@ -33,4 +33,8 @@
 /* Tamanho da fonte igual o News do site da Lamborghini */
 .text-7xl {
   font-size: 6rem;
+}
+
+.background-lamborghini {
+  background: #202020;
 }
