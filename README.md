@@ -1,6 +1,8 @@
-This project its a simple Clone the oficial page of Lamborghini https://www.lamborghini.com/en-en to study and make pages better.
+This project its a simple Clone using React and Tailwindcss the oficial page of Lamborghini https://www.lamborghini.com/en-en to study and make pages better.
 
-# To clone this project
+# To clone this project 
+
+- Observation: You need Tailwindcss installed in your project React.
 
 - Git clone Url this Project
 
