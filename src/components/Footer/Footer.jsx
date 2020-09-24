@@ -29,13 +29,13 @@ export default function Footer() {
             </p>
           </div>
           <div className="flex items-center">
-            <i className="cursor-pointer text-white text-xl pr-6 fab fa-facebook-f" />
-            <i className="cursor-pointer text-white text-xl pr-6 fab fa-twitter"></i>
-            <i className="cursor-pointer text-white text-xl pr-6 fab fa-youtube"></i>
-            <i className="cursor-pointer text-white text-xl pr-6 fab fa-instagram"></i>
-            <i className="cursor-pointer text-white text-xl pr-6 fab fa-linkedin-in"></i>
-            <i className="cursor-pointer text-white text-xl pr-6 fab fa-weibo"></i>
-            <i className="cursor-pointer text-white text-xl pr-6 fab fa-weixin"></i>
+            <i className="cursor-pointer text-white text-xl md:pr-4 lg:pr-6 xl:pr-6 fab fa-facebook-f" />
+            <i className="cursor-pointer text-white text-xl md:pr-4 lg:pr-6 xl:pr-6 fab fa-twitter"></i>
+            <i className="cursor-pointer text-white text-xl md:pr-4 lg:pr-6 xl:pr-6 fab fa-youtube"></i>
+            <i className="cursor-pointer text-white text-xl md:pr-4 lg:pr-6 xl:pr-6 fab fa-instagram"></i>
+            <i className="cursor-pointer text-white text-xl md:pr-4 lg:pr-6 xl:pr-6 fab fa-linkedin-in"></i>
+            <i className="cursor-pointer text-white text-xl md:pr-4 lg:pr-6 xl:pr-6 fab fa-weibo"></i>
+            <i className="cursor-pointer text-white text-xl md:pr-4 lg:pr-6 xl:pr-6 fab fa-weixin"></i>
           </div>
         </div>
         <div>

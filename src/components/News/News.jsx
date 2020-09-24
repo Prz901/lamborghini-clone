@@ -3,7 +3,7 @@ import React from 'react'
 export default function News() {
   return (
     <div className='container mx-auto py-20'>
-      <div className=' w-full'>
+      <div className='w-full'>
         <h2 className='text-4xl font-medium py-2 uppercase'>News</h2>
         <div className='pb-12'>
           <h1 className='text-7xl font-bold  uppercase leading-none'>Lamborghini world</h1>
@@ -12,6 +12,7 @@ export default function News() {
         <img
           src='https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/news/2020/09_23_unica/unica_cover1.jpg'
           alt='Lamborghini World'
+          className='w-full'
         />
       </div>
 
